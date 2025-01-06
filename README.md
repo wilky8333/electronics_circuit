@@ -6,6 +6,7 @@ Simulasi dan Analisis Oscillator RC menggunakan LTspice.
 ## File yang Disertakan
 - **filter_aktif.asc** - File simulasi LTspice.
 - **dua screenshot.png** - Hasil simulasi dan rangkaian.
+- **Laporan.pdf**- Pembuktian rumus
 
 ## Cara Membuka File
 1. Download file `.asc`.
